@@ -20,7 +20,7 @@ This project is created for **educational purposes only** as part of a Computer 
 
 ABYSSGATE is a pure x64 assembly, multi-stage, polymorphic shellcode framework designed to demonstrate advanced Windows internals knowledge and modern red team tradecraft. It targets the latest Windows 11 25H2 with all security features enabled (Defender real-time, VBS/HVCI, CET, ASR rules).
 
-### Why This Project is "Demonic"
+### Why This Project is "Obsidian Dropper"
 
 | Feature | Implementation | Difficulty |
 |---------|---------------|------------|
@@ -313,7 +313,7 @@ This project demonstrates understanding of:
 
 ## 👤 Author
 
-**COAL Lab Project**  
+**Abdul Nafay Sarmad**  
 March 2026
 
 **Target OS:** Windows 11 25H2 (Build 26200.8039)  
@@ -340,6 +340,10 @@ What makes ABYSSGATE stand out from typical COAL lab projects:
 **Total Implementation:** ~2,500 lines of pure assembly across 3 stages
 
 ---
+## ⚙️ Testing Note
+
+Due to hardware constraints, full-scale testing was conducted in a controlled virtualized environment.  
+A lightweight demonstration is provided to showcase core functionality.
 
 *"In the depths of assembly, where only the hardcore dwell..."*  
 **ABYSSGATE - No debugger shall pass.**
