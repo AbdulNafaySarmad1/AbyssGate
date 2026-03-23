@@ -179,7 +179,7 @@ This causes AMSI to always return `AMSI_RESULT_CLEAN` (0).
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/abyssgate.git
+git clone https://github.com/AbdulNafaySarmad1/abyssgate.git
 cd abyssgate
 
 # Run build system
